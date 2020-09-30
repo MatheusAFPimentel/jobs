@@ -1,17 +1,71 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
+Estágio em Software Quality
 
 
 CV
 ==
 
-[Preencha aqui o seu cv]
+# Matheus Augusto Ferreira Pimentel
 
-__Dicas:__
-* Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
-* Obedeça a formatação do markdown do GitHub. Isso deixa a leitura do seu currículo mais agradável.
-	* [Markdown syntax guide] (http://daringfireball.net/projects/markdown/syntax)
-	* [GitHub Flavored Markdown] (http://github.github.com/github-flavored-markdown/)
-	* Pressione M enquanto lê o README.mkd no projeto [jobs] (http://github.com/genomika/jobs), para ver o cheat-sheet
+# O B J E T I V O
+Pretendo ingressar na equipe de funcionários desta
+empresa, com o objetivo de adquirir desenvolvimento
+profissional, proporcionando praticidade e agilidade ao
+setor proposto.
+
+# E X P E R I Ê N C I A P R O F I S S I O N A L
+
+## Auxiliar Contábil.
+Contec Contadores Associados Eireli | Jun 2015 - Jan 2018
+
+Lançamentos Contábeis, análise de balancete, análise de
+balanços.
+Sped Contábil, emissão de Decore, lançamento de
+obrigações acessórias, EFD, DCTF.
+
+## Assistente Administrativo
+Instituto Nordeste Cidadania | Fev 2018 - Jan 2020
+
+Atendimento ao cliente, consultas cadastrais.
+Emissão boleto para liquidação, confecção de contratos,
+acompanhamento de carteira.
+Venda de seguro, avaliação de propostas de crédito.
+
+## Estagiário T.I
+Secretaria de Planejamento e Gestão | JUL 2014 - FEV 2015
+Suporte técnico em informática.
+
+# H I S T Ó R I C O E D U C A C I O N A L
+
+## Graduado em Ciências Contábeis
+Faculdade Santa Helena
+Cursando 5º período de Sistemas de Informação
+
+## Cursando 5º período de Sistemas de Informação
+UNINASSAU
+
+# C O N T A T O
+
+Avenida Regina Lacerda 175,
+Jardim Atlântico, Olinda.
+(81) 99520-8401
+https://matheusafpimentel.vercel.app
+linkedin.com/in/matheusaugusto-33077194/
+matheusaf.pimentel@gmail.com
+
+# C E R T I F I C A Ç Õ E S
+
+Certificado de POO em Java no
+Curso em Vídeo.
+Governança Corporativa no
+Instituto Nordeste Cidadania
+Certificado JavaScript,
+TypeScript, React, VueJS,
+Angular no Udemy Brasil.
+Certificado Python & MySQL no
+Udemy Brasil.
+Power BI.
+
+
